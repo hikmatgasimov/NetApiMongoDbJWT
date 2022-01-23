@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NetApiMongoDbJWT",
+    "\\NetApiMongoDbJWT\\Controllers"
   ],
+  "SelectedNode": "\\NetApiMongoDbJWT\\Controllers",
   "PreviewInSolutionExplorer": false
 }
